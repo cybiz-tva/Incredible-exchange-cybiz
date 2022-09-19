@@ -16,10 +16,10 @@ export const Welcome: React.FC = () => {
   return (
     <WelcomePageWrapper>
       <IntroCardWrapper>
-        <p className="subIntroText">Are you a first time crypto investor?</p>
-        <h1>Practice cryptocurrency trading with virtual money!</h1>
+        <p className="subIntroText">Welcome to the official</p>
+        <h1>Incredible Exchange</h1>
         <p className="subIntroText" style={{ marginTop: "10px" }}>
-          See how far can you go!
+          Liberia's First ever crypto exchange
         </p>
         <Link
           className="actionButton animate__animated animate__fadeInDown animate__slow"
